@@ -1,0 +1,56 @@
+.intro-text {
+	font-size: 2.0em;
+}
+
+.brand{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.info-name{
+    text-transform: capitalize;
+    font-size: 3em;
+}
+
+
+.table-row{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.bar-title{
+    margin: 1.2em 0 1em 0;
+    min-width: 80%;
+    font-size: 1.5em;
+    line-height: 2em;
+    padding-left: 1em;
+    font-weight: bold;
+    background-color: #393659;
+    color: white;
+}
+
+
+#infoTable tr td{
+    vertical-align: top;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+tbody{
+	font-size: 1.25em;
+}
+
+/*contact me in index*/
+.contact-char{
+    font-size: 1.25em;
+}
+.contact-em{
+    /*font-weight: bold;*/
+}
+
+
+/*research*/
+.res-href{
+    color: black;
+    text-decoration: underline;
+}
